@@ -1,6 +1,6 @@
 class ActivationObject:
     def __init__(self):
-        print("Woo!")
+        pass
 
     def setActivationDate(self, activationDate):
         self.activationDate = activationDate
@@ -69,4 +69,5 @@ class ActivationObject:
 
     def setSupportVendor(self, supportVendor):
         self.supportVendor = supportVendor
-    def
+    def getSupportVendor(self):
+        return self.supportVendor
