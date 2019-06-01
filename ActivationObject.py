@@ -4,7 +4,7 @@ class ActivationObject:
 
     def setActivationDate(self, activationDate):
         self.activationDate = activationDate
-    def getActivationDate(self)
+    def getActivationDate(self):
         return self.activationDate
 
     def setDay(self, day):
