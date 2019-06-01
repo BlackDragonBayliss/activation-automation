@@ -1,1 +1,1 @@
-C:\Users\carr.wallace2\PycharmProjects\movesc\ActivationAutomation\testing1.py\
+/ignoretest1.py
